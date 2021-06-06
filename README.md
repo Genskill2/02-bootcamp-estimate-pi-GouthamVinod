@@ -87,4 +87,4 @@ You can simply run the file `estimate.py` like so
 
        python3 estimate.py
        
-to check the whether your implementation is good.
+to check the whether your implementation is successful.
